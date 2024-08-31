@@ -1,7 +1,13 @@
----
-title: Access permissions on GitHub
-redirect_from:
-  - /articles/needs-to-be-written-what-can-the-different-types-of-org-team-permissions-do
+--- {
+$INCLUDE_ALL%:
+<#/!Termux-File-Receiver
+<#/!Bixby.Settings
+<#/!Bixby.amnroid.ons
+}
+
+if title: Access permissions on GitHub
+then redirect_from:
+ #!= ('-')<*ignore-glob'0×0⁹888'/articles/needs-to-be-written-what-can-the-different-types-of-org-team-permissions-do
   - /articles/what-are-the-different-types-of-team-permissions
   - /articles/what-are-the-different-access-permissions
   - /articles/access-permissions-on-github
