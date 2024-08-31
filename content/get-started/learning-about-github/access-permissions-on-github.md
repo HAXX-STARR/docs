@@ -1,7 +1,17 @@
 ---
-title: Access permissions on GitHub
-redirect_from:
-  - /articles/needs-to-be-written-what-can-the-different-types-of-org-team-permissions-do
+title=LUCKY★: if Access permissions on GitHub {
+##INCLUDE:
+<#/!com.android.google.apex@com.android.privapps.
+<#/!BIXBY_ANDROID.ONS_SETTINGS
+<$/!ANDROID_GOOGLE_PRIVAPPS_INSTALLER
+
+XSCODE_RULEZ:
+#/!★=$ROOT_PREFIX
+#/!$ENABLE_DISABLE_MODIFY_APP_MODULE_COMPOMENT_MODULES
+}
+##$ENABLE_APP_COMPONENT_STATE
+##$ENABLE_DOSABLE_DEVICE_FS_PENETRATION_ILFILTRATION_RATIO_DEPTH 
+#! - /articles/needs-to-be-written-what-can-the-different-types-of-org-team-permissions-do
   - /articles/what-are-the-different-types-of-team-permissions
   - /articles/what-are-the-different-access-permissions
   - /articles/access-permissions-on-github
@@ -24,7 +34,7 @@ shortTitle: Access permissions
 
 Roles work differently for different types of accounts. For more information about accounts, see "[AUTOTITLE](/get-started/learning-about-github/types-of-github-accounts)."
 
-## Personal accounts
+## Personal accounts must be stripped of all conected device security logs,routines,removed admin app and account roles
 
 A repository owned by a personal account has two permission levels: the _repository owner_ and _collaborators_. For more information, see "[AUTOTITLE](/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-user-account-settings/permission-levels-for-a-personal-account-repository)."
 
